@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (too large for GitHub)
+models/
+*.joblib
+*.pkl
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VS Code settings (optional)
+.vscode/
